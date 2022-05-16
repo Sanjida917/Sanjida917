@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning **Java, Python**
 - 📫 How to reach me **sanjidaapapon@gmail.com**
 - Have so much interests in Programming Languages 💻
-- ⚡ Fun fact **A Little Bit Funny I Think**
 - I Love Coding 🤗🤗
 - Goal is to be "A Google Programmar" 😇
 - ⚡ Fun fact **A Little Bit Funny I Think**
